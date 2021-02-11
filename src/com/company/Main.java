@@ -6,6 +6,7 @@ public class Main {
 
         System.out.println("Tutoring is awesome");
         System.out.println("Isaiah wrote this code");
+        System.out.println("Isaiah wrote this code 2");
 
     }
 }
