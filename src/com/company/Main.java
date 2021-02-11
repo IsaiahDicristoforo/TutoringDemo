@@ -6,7 +6,8 @@ public class Main {
 
         System.out.println("Tutoring is awesome");
         System.out.println("Isaiah wrote this code");
-        System.out.println("Isaiah wrote this code 2");
+        System.out.println("Isaiah wrote this code 2 ! Hi Isaiah, thanks for help!");
+        System.out.println("Yanling is editing the file.");
 
     }
 }
